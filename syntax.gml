@@ -1,3 +1,6 @@
+== is equal
+!= is not equal
+
 1. enum 
 enum name { 
     value1,

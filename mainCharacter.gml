@@ -181,3 +181,8 @@ if (pressLeft) {
     state = kingStates.attack;
     }
 }
+
+
+// plus score or minus HP
+// u have to another object to collision with main character
+
